@@ -1,0 +1,12 @@
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/bin/Debug/netstandard2.0/ListaMunicipios.deps.json
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/bin/Debug/netstandard2.0/ListaMunicipios.dll
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/bin/Debug/netstandard2.0/ListaMunicipios.pdb
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/ListaMunicipios.csprojAssemblyReference.cache
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/ListaMunicipios.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/ListaMunicipios.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/ListaMunicipios.AssemblyInfo.cs
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/ListaMunicipios.dll
+/Users/aluno/Projects/ListaMunicipios/ListaMunicipios/obj/Debug/netstandard2.0/ListaMunicipios.pdb

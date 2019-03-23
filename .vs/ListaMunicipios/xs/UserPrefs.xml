@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{075AE229-D629-4F8E-83CF-A5BA7C81565C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaMunicipios/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ListaMunicipios/Model/Mestre.cs" Line="6" Column="9" />
+      <File FileName="ListaMunicipios/MainPage.xaml" Line="16" Column="30" />
+      <File FileName="ListaMunicipios/MainPage.xaml.cs" Line="39" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaMunicipios" expanded="True">
+            <Node name="ListaMunicipios" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListaMunicipios.Android PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ListaMunicipios.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
